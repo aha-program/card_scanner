@@ -4,10 +4,10 @@
 <h2 align="center">Fast, Accurate and Secure Credit & Debit card scanner for Flutter </h2>
 
 [![](https://img.shields.io/pub/v/card_scanner)](https://pub.dev/packages/card_scanner)
-[![](https://img.shields.io/badge/package-flutter-blue)](https://github.com/nateshmbhat/card-scanner-flutter)
+[![](https://img.shields.io/badge/package-flutter-blue)](https://github.com/aha-program/card_scanner)
 [![](https://img.shields.io/github/license/nateshmbhat/card-scanner-flutter)](https://github.com/nateshmbhat/card-scanner)
-[![](https://img.shields.io/github/languages/code-size/nateshmbhat/card-scanner-flutter)](https://github.com/nateshmbhat/card-scanner-flutter)
-[![](https://img.shields.io/badge/platform-android%20%26%20ios-bg)](https://github.com/nateshmbhat/card-scanner-flutter)
+[![](https://img.shields.io/github/languages/code-size/nateshmbhat/card-scanner-flutter)](https://github.com/aha-program/card_scanner)
+[![](https://img.shields.io/badge/platform-android%20%26%20ios-bg)](https://github.com/aha-program/card_scanner)
 [![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fnateshmbhat%2Fcard-scanner-flutter)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fnateshmbhat%2Fcard-scanner-flutter)
 
 ## This package is a fork of the original. All rights reserved to its creators.
