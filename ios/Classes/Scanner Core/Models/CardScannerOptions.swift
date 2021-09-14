@@ -20,7 +20,7 @@ public class CardScannerOptions {
     var cardScannerTimeOut: Int = 0
     var enableDebugLogs: Bool = false
     var possibleCardHolderNamePositions: [String] = [CardHolderNameScanPositions.belowCardNumber.rawValue]
-    var prompt: String = "Kartani to'rtburchak ichiga joylang."
+    var prompt: String = "Поместите карту в рамку."
     var cameraOrientation: CameraOrientation = .portrait
     
     init(
